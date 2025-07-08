@@ -25,3 +25,6 @@ Intended for people who wish to contribute to the ESLint project. Contains infor
 ## [Maintain ESLint](maintain/)
 
 Intended for maintainers of ESLint.
+
+## [Maintain ESLint](contribute/)
+
